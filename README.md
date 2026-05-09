@@ -145,11 +145,8 @@ print("Test Reward:", total_reward)
 
 # Output
 
-```text
+<img width="650" height="150" alt="image" src="https://github.com/user-attachments/assets/a74c72e2-8563-4cf8-9c97-3d478a61f8a7" />
 
-```
-
----
 
 # Result
 
